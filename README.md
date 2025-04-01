@@ -82,6 +82,7 @@ This analysis shows how King's deliberate choice of words reinforces his **visio
 
 - `MLK_R_Codefile` — R code and other necessary files for text mining and visualization
 - `MLK_Report.pdf` — Project Report
+- `LinktoMLKSpeech.txt` — Text file with link to *I have a Dream* Speech
 - `README.md` — Project Documentation
 
 ---
